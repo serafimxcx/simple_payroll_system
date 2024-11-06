@@ -36,7 +36,6 @@ This system includes several key modules for employee management, attendance tra
 - **MySQL**: Database management system to store employee information, attendance records, and payroll data.
 - **JavaScript & jQuery**: Used for dynamic interactions, such as real-time searching of employee data and updating records without page reload.
 - **HTML & CSS**: For structuring and styling the front-end user interface.
-- **Bootstrap**: Front-end framework for creating a responsive and modern layout.
 
 ## Getting Started
 
