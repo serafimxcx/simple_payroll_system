@@ -1,0 +1,68 @@
+.sreport_container{
+    border: 1px solid black;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.stable_container{
+    border: 1px solid black;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.searchbtn{
+    border: 1px solid #0090C1;
+    background-color: #0090C1;
+    color: white;
+    border-radius: 15px;
+    padding: 10px 18px;
+    margin-right: 8px;
+}
+
+.searchbtn:hover{
+    opacity: 0.8;
+}
+
+#printDiv{
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.printbtn{
+    border: 1px solid #38AECC;
+    background-color: #38AECC;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-right: 8px;
+}
+
+.printbtn:hover{
+    opacity: 0.8;
+}
+
+.print{
+    border: 1px solid #38AECC;
+    background-color: #38AECC;
+    color: white;
+    border-radius: 15px;
+    padding: 10px 18px;
+    margin-right: 8px;
+}
+
+.print:hover{
+    opacity: 0.8;
+}
+
+input{
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 3px;
+}
+
